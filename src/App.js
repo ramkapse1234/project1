@@ -7,9 +7,7 @@ function App() {
       <p>This app is now live on Netlify!</p>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ8liosYPhKGoWvLoiQbFr40EmGT1LjIzwOg&s" alt="avatar"/>
       <h2>All Right</h2>
-      <h1>Sowmya Love You 💖💖💖
-
-      </h1>
+     
     </div>
   );
 }
