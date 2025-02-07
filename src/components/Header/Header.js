@@ -8,7 +8,7 @@ class Header extends Component {
     return (
       
       <div className="container">
-      <Link className="button" to="/">Home</Link>
+      <Link className="button" to="/">Homes</Link>
       <Link className="button" to="/contact">Contact</Link>
       <Link className="button" to="/about">About</Link>
       </div>
