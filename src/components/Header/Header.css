@@ -6,16 +6,15 @@
     margin-left: 15%;
     margin-right: 15%;
 }
-.button{
+.btn-custom {
     background-color: #4CAF50;
-    border-color:black;
-    border-style: groove;
-    border-width: 56%;
-    color: #ffffff;
+    border: 2px solid black;
+    color: white;
     padding: 12px 24px;
-    font-Size: 16px;
+    font-size: 16px;
     text-decoration: none;
-    border-radius:8px;
-    cursor: pointer;  
-  };
-
+    border-radius: 8px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 10px;
+}

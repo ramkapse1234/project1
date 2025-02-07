@@ -8,9 +8,9 @@ class Header extends Component {
     return (
       
       <div className="container">
-      <Link className="button" to="/">Homes</Link>
-      <Link className="button" to="/contact">Contact</Link>
-      <Link className="button" to="/about">About</Link>
+      <Link className="btn-custom" to="/">Homes</Link>
+      <Link className="btn-custom" to="/contact">Contact</Link>
+      <Link className="btn-custom" to="/about">About</Link>
       </div>
     );
   }
