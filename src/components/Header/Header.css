@@ -2,7 +2,7 @@
     margin:1%;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-evenly;
     margin-left: 15%;
     margin-right: 15%;
 }
@@ -16,9 +16,6 @@
     font-Size: 16px;
     text-decoration: none;
     border-radius:8px;
-    cursor: pointer;
-    
-    
-    
+    cursor: pointer;  
   };
 
