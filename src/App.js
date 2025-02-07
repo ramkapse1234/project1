@@ -12,6 +12,7 @@ function App() {
     <BrowserRouter>
 <>
     <Header/>
+    <h1>Pora</h1>
     
     <Switch>
       <Route exact path="/" component={Home}/>  
